@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Alihormozi
+- 👀 I’m interested in Php,Javascript,Html,Css,Ai
+- 🌱 I’m currently learning ...
+- 📫 How to reach me in Chatbox
+- ⚡ Fun fact: I create wordpress sites
+- 💬 you can chat with me in discord
